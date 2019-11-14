@@ -1,0 +1,5 @@
+promo_113;biteye ;2019-06;
+promo_376;malick;2019-07;
+promo_270;ndiaye;2020-01;
+diop ;bassirou;2019-05;
+360;diop bassirou;2019-05;

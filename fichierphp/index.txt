@@ -1,0 +1,4 @@
+bass;passer;bass;771523139;fass;admin;actif;
+test;passer;test;771542336;ouakam;admin;bloquer;
+coly;passer;coly;778565654;dakar;user;bloquer;
+abdou;passer;abdou;778565654;dakar;user;actif;

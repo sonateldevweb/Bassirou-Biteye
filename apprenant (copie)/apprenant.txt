@@ -1,0 +1,5 @@
+apprenant_142;biteye;bassirou;2019-05-17;777555;bassbiteye45@gmail.com;promo_113;exclu;
+apprenant_8;DIOP;amadou;1995-02-01;771542325;amadou45@gmail.com;promo_113;accepté;
+apprenant_325;modou;DIOP;1990-04-12;77155417;modou45@gmail.com;promo_270;accepté;
+apprenant_361;fatou;ndiaye;1999-02-12;778564741;fatou@gmail.com;promo_270;exclu;
+apprenant_403;bineta;ndiaye;2019-05-25;778564741;fatou@gmail.com;promo_113;accepté;
